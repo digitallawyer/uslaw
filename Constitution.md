@@ -1,6 +1,6 @@
 #The United States Constitution
 
-Prepared by [@digitallawyer](www.twitter.com/digitallawyer) in the [lawgives](www.lawgives.com) office.
+Prepared by [@digitallawyer](http://www.twitter.com/digitallawyer) in the [lawgives](http://www.lawgives.com) office.
 
 We the People of the United States, in Order to form a more perfect Union,
 establish Justice, insure domestic Tranquility, provide for the common
