@@ -1,7 +1,5 @@
 #The United States Constitution
 
-Prepared by [@digitallawyer](http://www.twitter.com/digitallawyer) in the [lawgives](http://www.lawgives.com) office.
-
 We the People of the United States, in Order to form a more perfect Union,
 establish Justice, insure domestic Tranquility, provide for the common
 defence, promote the general Welfare, and secure the Blessings of Liberty to
